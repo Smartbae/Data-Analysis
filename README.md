@@ -4,6 +4,9 @@
 
 This data analysis project aims to provide insights into the sales performance of two companies (Computech and Microworld) for a given period of time (Jan 2023 - June 2023). By analysing various aspects of the sales data, we seek to identify trends, sales data-driven recommendation, and gain a deeper understanding of the company's performance.
 
+![image](https://github.com/Smartbae/SALES-DASHBOARD-FOR-COMPUTECH-AND-MICROWORLD/assets/164383043/dd4b0ff4-e742-45f7-9d90-453abb0f7c42)
+
+
 ### Data Source
 
 Sales Data: The primary dataset used for this amalysis is the "sales_data" file, containing detailed information about sales made by each company's manager on different categories
